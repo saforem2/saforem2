@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sam's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/saforem2/github-readme-stats)
+[![Sam's github stats](https://github-readme-stats.vercel.app/api?username=saforem2)](https://github.com/saforem2/github-readme-stats)
 
 
 <!--
