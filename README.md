@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- [Website](https://www.samforeman.me)
+
+- I'm currently working on using Machine Learning to build more efficient Markov Chain Monte Carlo sampling techniques for generating gauge configurations in lattice QCD.
+  - [`l2hmc-qcd`](https://github.com/saforem2/l2hmc-qcd/)
+
 [![Sam's github stats](https://github-readme-stats.vercel.app/api?username=saforem2)](https://github.com/saforem2/github-readme-stats)
 
 
