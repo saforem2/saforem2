@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&theme=dark&langs_count=8)](https://github.com/saforem2/github-readme-stats)
 
-[![saforem2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&theme=dark)](https://github.com/saforem2/github-readme-stats)
+<!---[![saforem2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&theme=dark)](https://github.com/saforem2/github-readme-stats)--->
 
 <!---![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)--->
 <!--
