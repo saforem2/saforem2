@@ -6,6 +6,8 @@
 
 [![`l2hmc-qcd`](https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=dark&hide_border=true&bg_color=0d111b)](https://github.com/saforem2/l2hmc-qcd)
 
+[![`fthmc`](https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=dark&hide_border=true&bg_color=0d111b)](https://github.com/nftqcd/fthmc)
+
 <!---  - [`l2hmc-qcd`](https://github.com/saforem2/l2hmc-qcd/)--->
 <!---  - [![`l2hmc-qcd`]](https://github.com/saforem2/l2hmc-qcd)--->
 
