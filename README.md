@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - [Website](https://www.samforeman.me)
+- [twitter](https://twitter.com/saforem2)
+<!---- [<img src="https://img.icons8.com/color/24/000000/twitter--v1.png"/>](twitter) --->
+
 
 - I'm currently working on using Machine Learning to build more efficient Markov Chain Monte Carlo sampling techniques for generating gauge configurations in lattice QCD.
 
