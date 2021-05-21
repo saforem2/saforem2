@@ -1,3 +1,10 @@
+<!--![Metrics](https://metrics.lecoq.io/saforem2?template=classic&isocalendar=1&stars=1&activity=1&tweets=1&music=1&isocalendar.duration=half-year&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&music.limit=4&music.played.at=false&music.user=.user.login&tweets.attachments=true&tweets.limit=2&tweets.user=saforem2&config.timezone=America%2FChicago)--!>
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/saforem2/saforem2/blob/master/github-metrics.svg)
+<!---my-github-user/my-github-user/blob/master/github-metrics.svg)--->
+---
+
+
 ### Hi there 👋
 
 - [Website](https://www.samforeman.me)
@@ -50,4 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/saforem2?template=classic&isocalendar=1&stars=1&activity=1&tweets=1&music=1&isocalendar.duration=half-year&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&music.limit=4&music.played.at=false&music.user=.user.login&tweets.attachments=true&tweets.limit=2&tweets.user=saforem2&config.timezone=America%2FChicago)
+
