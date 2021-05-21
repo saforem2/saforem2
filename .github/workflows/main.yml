@@ -1,0 +1,20 @@
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: lastfm  # Use Last.fm as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_user: .user.login # Use same username as GitHub login
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
