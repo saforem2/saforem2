@@ -14,9 +14,29 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: saforem2
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Chicago
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_tweets: yes
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: saforem2
           plugin_music: yes
           plugin_music_provider: lastfm  # Use Last.fm as provider
           plugin_music_mode: recent      # Set plugin mode
           plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_user: .user.login # Use same username as GitHub login
           plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+
+        
