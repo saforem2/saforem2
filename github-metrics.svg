@@ -1403,28 +1403,28 @@
                             <div class="track">
                                 <img src="data:image/gif;base64,[object Promise]" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">JUGGERNAUT</div>
+                                    <div class="name">MASSA</div>
                                     <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/gif;base64,[object Promise]" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">BLESSED</div>
+                                    <div class="name">HOT WIND BLOWS</div>
                                     <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/gif;base64,[object Promise]" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">RISE!</div>
+                                    <div class="name">LUMBERJACK</div>
                                     <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/gif;base64,[object Promise]" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">MOMMA TALK</div>
+                                    <div class="name">CORSO</div>
                                     <div class="artist">Tyler, The Creator</div>
                                 </div>
                             </div>
@@ -3460,7 +3460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>great-expectations/great_expectations</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3762,7 +3762,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 26 Jun 2021 13:18:46 (timezone America/Chicago) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 26 Jun 2021 14:12:15 (timezone America/Chicago) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
