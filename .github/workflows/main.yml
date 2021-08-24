@@ -45,3 +45,5 @@ jobs:
           plugin_music_limit: 4          # Limit to 4 entries
           plugin_music_user: .user.login # Use same username as GitHub login
           plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+          plugin_traffic: yes
+          
