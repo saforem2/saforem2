@@ -10,9 +10,9 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <!---- [<img src="https://img.icons8.com/color/24/000000/twitter--v1.png"/>](twitter) --->
 
 ## Active projects:
-[![`l2hmc-qcd`](https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=dark&hide_border=true&bg_color=0d111b)](https://github.com/saforem2/l2hmc-qcd)
+[![`l2hmc-qcd`](https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=dark&hide_border=true&bg_color=0d1118)](https://github.com/saforem2/l2hmc-qcd)
 
-[![`fthmc`](https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=dark&hide_border=true&bg_color=0d111b)](https://github.com/nftqcd/fthmc)
+[![`fthmc`](https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=dark&hide_border=true&bg_color=0d1118)](https://github.com/nftqcd/fthmc)
 
 <!---  - [`l2hmc-qcd`](https://github.com/saforem2/l2hmc-qcd/)--->
 <!---  - [![`l2hmc-qcd`]](https://github.com/saforem2/l2hmc-qcd)--->
@@ -24,7 +24,7 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 ![Metrics](https://metrics.lecoq.io/saforem2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=saforem2&config.timezone=America%2FChicago)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=dark&bg_color=0d111b&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=dark&bg_color=0d1118&hide_border=true" />
 </a>
 <!---<a href="https://github.com/anuraghazra/convoychat">--->
 <!---  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&theme=dark&langs_count=4" />--->
