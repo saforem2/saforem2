@@ -18,6 +18,7 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <!---  - [![`l2hmc-qcd`]](https://github.com/saforem2/l2hmc-qcd)--->
 
 ## Visitor Count
+![](https://komarev.com/ghpvc/?username=saforem2)   
 ![Visitor Count](https://profile-counter.glitch.me/saforem2/count.svg)
 
 ## Github Metrics:
