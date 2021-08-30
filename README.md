@@ -7,9 +7,6 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 - [Website](https://www.samforeman.me)
 - [twitter](https://twitter.com/saforem2)
 
-
-![Metrics](https://metrics.lecoq.io/saforem2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=saforem2&config.timezone=America%2FChicago)
-
 <!---- [<img src="https://img.icons8.com/color/24/000000/twitter--v1.png"/>](twitter) --->
 
 ## Active projects:
@@ -20,7 +17,12 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <!---  - [`l2hmc-qcd`](https://github.com/saforem2/l2hmc-qcd/)--->
 <!---  - [![`l2hmc-qcd`]](https://github.com/saforem2/l2hmc-qcd)--->
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/saforem2/count.svg)
+
 ## Github Metrics:
+![Metrics](https://metrics.lecoq.io/saforem2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=saforem2&config.timezone=America%2FChicago)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=dark&bg_color=0d111b&hide_border=true" />
 </a>
