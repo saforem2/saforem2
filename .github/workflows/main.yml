@@ -9,15 +9,17 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: saforem2
-          template: classic
-          base: header, activity, community, repositories, metadata
+    
+      - name: 🦑 Personal metrics
+        # See action.yml for all options
+        - uses: lowlighter/metrics@latest
+          with:
+            # Your GitHub token
+            token: ${{ secrets.METRICS_TOKEN }}
+            # Options
+            user: saforem2
+            template: classic
+            base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
           plugin_activity: yes
           plugin_activity_days: 14
@@ -724,22 +726,6 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 🗼 Rss feed
-
-      - name: 🗼 Rss feed
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
       # 📸 Website screenshot
 
       - name: 📸 Website screenshot
@@ -753,24 +739,6 @@ jobs:
           plugin_screenshot_title: XKCD of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 🗨️ Stackoverflow
-
-      - name: 🗨️ Stackoverflow
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.stackoverflow.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -807,80 +775,6 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 💕 GitHub Sponsors
-
-      - name: 💕 GitHub Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      - name: 💕 GitHub Sponsors (with introduction)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.sponsors.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 💹 Stock prices plugin
-
-      - name: 💹 Stock prices
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.stock.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_stock: yes
-          plugin_stock_symbol: TSLA
-          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 📌 Starred topics
-
-      - name: 📌 Starred topics (labels)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      - name: 📌 Starred topics (icons)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
       # 🧮 Repositories traffic
 
       - name: 🧮 Repositories traffic
@@ -897,49 +791,17 @@ jobs:
 
       # ======================================================================================
       # 🐤 Latest tweets
-
-      - name: 🐤 Latest tweets
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.tweets.svg
-          token: NOT_NEEDED
-          user: botlighter
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
       - name: 🐤 Latest tweets (with attachments)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.tweets.attachments.svg
           token: NOT_NEEDED
-          user: botlighter
+          user: saforem2
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
           plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # ⏰ WakaTime plugin
-
-      - name: ⏰ WakaTime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
           delay: 120
@@ -1007,98 +869,3 @@ jobs:
           debug_flags: --cakeday --hireable --halloween
           output_action: pull-request-squash
           delay: 120
-
-# ======================================================================================
-# Special job used to render markdown as png
-# ======================================================================================
-
-  github-metrics-markdown:
-    runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
-    container: ghcr.io/lowlighter/metrics:master
-    needs: [github-metrics-examples]
-    steps:
-
-      - name: Screenshot markdown example
-        run: |
-          node /metrics/.github/markdown_example.mjs
-          echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV
-
-      - name: Update markdown example
-        uses: actions/github-script@v5
-        env:
-          METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
-        with:
-          debug: yes
-          script: |
-            try {
-              const {data:{sha}} = await github.rest.repos.getContent({...context.repo, path:"metrics.markdown.png"})
-              console.log(`current sha: ${sha}`)
-              github.rest.repos.createOrUpdateFileContents({
-                ...context.repo,
-                path:"metrics.markdown.png",
-                message:`Auto-generated metrics for run #${github.context ? github.context.runId : "0000000000"}`,
-                content:process.env.METRICS_MARKDOWN_EXAMPLE,
-                sha,
-              })
-            } catch (error) { console.log(error) }
-
-# ======================================================================================
-# Special job used to render lowlighter/metrics repository assets
-# ======================================================================================
-
-  github-metrics-repository:
-    runs-on: ubuntu-latest
-    if: "github.repository == 'lowlighter/lowlighter'"
-    steps:
-
-      - name: Contributors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          user: lowlighter
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          config_display: large
-          output_action: pull-request
-          delay: 120
-
-      - name: Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_types: sponsors
-          plugin_people_sponsors_custom: yutkat, ktnkk, iamsainikhil, tfSheol
-          plugin_people_size: 48
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          config_display: large
-          output_action: pull-request
-          delay: 120
-
-      - name: Licenses
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-          
