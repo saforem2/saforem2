@@ -1,10 +1,18 @@
-## About Me <a href="https://komarev.com/ghpvc/?username=saforem2"><img align="right" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
+<div align="center">  
+  <h1>🏡<a href="https://www.samforeman.me">samforeman.me</a></h1>
+    <a href="https://arxiv.org/abs/2112.01582"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg"></a> <a href="https://arxiv.org/abs/2105.03418"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg"></a> 
+    <br>
+    <a href="https://github.com/saforem2/l2hmc-qcd/"><img alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray"></a> <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge"></a>
+    <br>
+    <a href="https://komarev.com/ghpvc/?username=saforem2"><img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
+ </div>
 
-🏠 [samforeman.me](https://www.samforeman.me)
+## About Me
 
-I'm currently a computational science postdoc in the [Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at Argonne National Laboratory.
+I'm currently a [computational science postdoc](https://alcf.anl.gov/about/people/sam-foreman) in the [Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at Argonne National Laboratory.
 
 My current research interests include machine learning, generative modeling, high-performance computing and lattice quantum chromodynamics (LQCD).
+
 My most recent project involves using ML to build more efficient Markov Chain Monte Carlo sampling techniques for generating gauge configurations in LQCD.
 
 
@@ -14,6 +22,9 @@ Feel free to check out my [website](https://www.samforeman.me) or follow me on [
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
 
 [1]: http://www.twitter.com/saforem2
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)
 
 ## Active projects:
 
