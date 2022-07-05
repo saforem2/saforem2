@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm currently a [computational science postdoc](https://alcf.anl.gov/about/people/sam-foreman) in the [Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at Argonne National Laboratory.
+I'm currently a [computational scientist](https://alcf.anl.gov/about/people/sam-foreman) in the [Leadership Computing Facility](https://alcf.anl.gov) (ALCF) at Argonne National Laboratory.
 
 My current research interests include machine learning, generative modeling, high-performance computing and lattice quantum chromodynamics (LQCD).
 
