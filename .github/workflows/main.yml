@@ -8,8 +8,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-    
       - name: 🦑 Personal metrics
         # See action.yml for all options
         uses: lowlighter/metrics@latest
@@ -23,6 +24,8 @@ jobs:
             # base: header, activity, community, repositories, metadata, habits
             base_indepth: yes
             commits_authoring: saforem2
+            config_display: columns
+            # config_presets: @ocean-blue
             config_octicon: yes
             config_timezone: America/Chicago
             plugin_achievements: yes
@@ -36,14 +39,14 @@ jobs:
             plugin_activity_load: 300
             plugin_activity_visibility: public
             plugin_calendar: yes
-            plugin_calendar_limit: 1
+            plugin_calendar_limit: 4
             plugin_code: yes
             plugin_code_days: 3
             plugin_code_lines: 12
             plugin_code_load: 400
             plugin_code_visibility: public
-            plugin_discussions: yes
-            plugin_discussions_categories: yes
+            # plugin_discussions: yes
+            # plugin_discussions_categories: yes
             plugin_followup: yes
             plugin_followup_archived: yes
             plugin_followup_sections: repositories
@@ -104,7 +107,8 @@ jobs:
             # plugin_sponsors_title: Sponsor Me!
             plugin_stargazers: yes
             plugin_stargazers_charts: yes
-            plugin_stargazers_charts_type: classic
+            plugin_stargazers_charts_type: chartist
+            plugin_stargazers_worldmap: yes
             plugin_starlists: yes
             plugin_starlists_limit: 2
             plugin_starlists_limit_languages: 8
