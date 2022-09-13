@@ -19,7 +19,8 @@ jobs:
             # Options
             user: saforem2
             template: classic
-            base: header, activity, community, repositories, metadata
+            base: header, activity, community, repositories, metadata, habits
+            # base: header, activity, community, repositories, metadata, habits
             base_indepth: yes
             commits_authoring: saforem2
             config_octicon: yes
@@ -31,9 +32,9 @@ jobs:
             plugin_activity: yes
             plugin_activity_days: 14
             plugin_activity_filter: all
-            plugin_activity_limit: 5
+            plugin_activity_limit: 10 
             plugin_activity_load: 300
-            plugin_activity_visibility: all
+            plugin_activity_visibility: public
             plugin_calendar: yes
             plugin_calendar_limit: 1
             plugin_code: yes
@@ -92,15 +93,15 @@ jobs:
             plugin_projects_limit: 4
             plugin_repositories: yes
             plugin_repositories_order: featured, pinned, starred, random
-            plugin_screenshot: yes
-            plugin_screenshot_background: yes
-            plugin_screenshot_selector: body
-            plugin_screenshot_title: My Website
-            plugin_screenshot_url: https://samforeman.me
-            plugin_sponsors: yes
-            plugin_sponsors_sections: goal, list, about
-            plugin_sponsors_size: 24
-            plugin_sponsors_title: Sponsor Me!
+            # plugin_screenshot: yes
+            # plugin_screenshot_background: yes
+            # plugin_screenshot_selector: body
+            # plugin_screenshot_title: My Website
+            # plugin_screenshot_url: https://samforeman.me
+            # plugin_sponsors: yes
+            # plugin_sponsors_sections: goal, list, about
+            # plugin_sponsors_size: 24
+            # plugin_sponsors_title: Sponsor Me!
             plugin_stargazers: yes
             plugin_stargazers_charts: yes
             plugin_stargazers_charts_type: classic
