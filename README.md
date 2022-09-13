@@ -1,10 +1,13 @@
 <div align="center">  
   <h1>🏡<a href="https://www.samforeman.me">samforeman.me</a></h1>
-    <a href="https://arxiv.org/abs/2112.01582"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg"></a> <a href="https://arxiv.org/abs/2105.03418"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg"></a> 
-    <br>
+    <a href="https://arxiv.org/abs/2112.01582"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg"></a> <a href="https://arxiv.org/abs/2105.03418"><img alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg"></a>
+  <br>
     <a href="https://github.com/saforem2/l2hmc-qcd/"><img alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray"></a> <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge"></a>
+  <br>
+    <a href="https://github.com/saforem2/saforem2/actions/workflows/main.yml"><img align="center" src="https://github.com/saforem2/saforem2/actions/workflows/main.yml/badge.svg" style="padding-top:-1px;" /></a>
     <br>
     <a href="https://komarev.com/ghpvc/?username=saforem2"><img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
+  <br>
  </div>
 
 ## About Me
