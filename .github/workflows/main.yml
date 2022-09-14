@@ -24,7 +24,6 @@ jobs:
             # base: header, activity, community, repositories, metadata, habits
             base_indepth: yes
             commits_authoring: saforem2
-            config_display: columns
             # config_presets: @ocean-blue
             config_octicon: yes
             config_timezone: America/Chicago
@@ -92,8 +91,6 @@ jobs:
             plugin_people_limit: 24
             plugin_people_size: 28
             plugin_people_types: followers, following
-            plugin_projects: yes
-            plugin_projects_limit: 4
             plugin_repositories: yes
             plugin_repositories_order: featured, pinned, starred, random
             # plugin_screenshot: yes
@@ -175,10 +172,6 @@ jobs:
             plugin_projects_descriptions: yes
             # plugin_stargazers: yes
             # plugin_traffic: yes
-            # plugin_tweets: yes
-            plugin_tweets_attachments: yes
-            # plugin_tweets_limit: 2
-            # plugin_tweets_user: .user.login
             # plugin_music: yes
             plugin_music_provider: lastfm  # Use Last.fm as provider
             plugin_music_mode: recent      # Set plugin mode
