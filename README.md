@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a href="https://www.samforeman.me">🏡</a></h1>
+    <h1><a href="https://www.samforeman.me">🏡 sam foreman.me</a></h1>
     <a href="https://komarev.com/ghpvc/?username=saforem2"><img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
     <br>
     <br>
