@@ -71,8 +71,8 @@ Feel free to check out my [website](https://www.samforeman.me) or follow me on [
 <a href="https://github.com/saforem2/resume">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=resume&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/saforem2/site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=site&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/saforem2/personal_site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=personal_site&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
 
 
