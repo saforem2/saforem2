@@ -51,23 +51,23 @@ Feel free to check out my [website](https://www.samforeman.me) or follow me on [
 <a href="https://github.com/saforem2/l2hmc-qcd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=github_dark&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/saforem2/l2hmc_talk_ect2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc_talk_ect2021&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/saforem2/lqcd-pasc23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=lqcd-pasc23&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
 <a href="https://github.com/nftqcd/fthmc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/argonne-lcf/CompPerfWorkshop-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=CompPerfWorkshop-2021&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/argonne-lcf/CompPerfWorkshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=CompPerfWorkshop&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/argonne-lcf/sdl_ai_workshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=sdl_ai_workshop&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/argonne-lcf/ai-science-training-series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=ai-science-training-series&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/saforem2/lattice_gauge_theory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=lattice_gauge_theory&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/argonne-lcf/mlprof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=mlprof&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
-<a href="https://github.com/saforem2/resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=resume&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<a href="https://github.com/argonne-lcf/user-guides">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=user-guides&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
 </a>
 <a href="https://github.com/saforem2/personal_site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=personal_site&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
