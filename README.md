@@ -10,7 +10,7 @@
 <!-- </div>-->
 
 <!-- **:wave: Hey there, I'm Sam!**<br>-->
-# **:wave: Hi, I'm [Sam Foreman](https://saforem2.github.io)!**
+# **:wave: Hi, I'm [Sam](https://samforeman.me)!**
 
 <img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a> <a href="https://github.com/saforem2/l2hmc-qcd/"><img align="center" alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray" /></a>  <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img align="center" alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge" /></a> <a href="https://arxiv.org/abs/2112.01582"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg" /></a> <a href="https://arxiv.org/abs/2105.03418"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg" /></a> 
 
