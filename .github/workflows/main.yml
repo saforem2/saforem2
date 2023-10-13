@@ -33,15 +33,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Metrics embed
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+  #github-metrics:
+  #  runs-on: ubuntu-latest
+  #  permissions:
+  #    contents: write
+  #  steps:
+  #    - name: Metrics embed
+  #      uses: lowlighter/metrics@v3.34
+  #      with:
+  #        token: ${{ secrets.METRICS_TOKEN }}
+  
   profile-readme:
     runs-on: ubuntu-latest
     permissions:
