@@ -49,14 +49,31 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 [1]: http://www.twitter.com/saforem2
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)
+<!--<div class="flex" align="center" style="layout-valign: center;">-->
 
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
+</a> <a href="https://github.com/saforem2/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a><a href="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true">
+	<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true" width="80%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saforem2&theme=github_dark&column=-1&no-bg=true&no-frame=true)](https://github.com/saforem2)
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true)](https://github.com/saforem2)
+-->
 
-<!--[![stats](https://github-readme-stats.vercel.app/api?username=saforem2&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true)](https://github.com/saforem2)
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&2&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&hide_title=true&langs_count=10)](https://github.com/saforem2)-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=minimal&bg_color=00000000&line=00CCFF&color=838383&hide_border=true&hide_title=true&area=true&custom_title=Contributions" />
+
+<!--</div>-->
+
+ <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true" />-->
+ 
+<!--[![stats](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true)](https://github.com/saforem2)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&hide_title=true&langs_count=10)](https://github.com/saforem2)-->
 
 <!--[![samforeman's GitHub | Stats](https://stats.quine.sh/samforeman/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=samforeman)
 [![samforeman's GitHub | Dependencies](https://stats.quine.sh/samforeman/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=samforeman)  
@@ -65,17 +82,9 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <!--[![samforeman's GitHub | Topics Over Time](https://stats.quine.sh/samforeman/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=samforeman)
 [![samforeman's GitHub | Languages Over Time](https://stats.quine.sh/samforeman/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=samforeman)-->
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true" />-->
-</a>
-
-<a href="https://github.com/saforem2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=github_dark&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
 
 <!--
 <picture>
@@ -85,6 +94,55 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 </picture>
 -->
 
+
+<!--
+<picture>
+	<source
+		media="(prefers-color-scheme: dark)"
+		srcset="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=github-dark&hide_border=true&hide_title=true&area=true&custom_title=Contributions"
+	/>
+	<source
+		media="(prefers-color-scheme: light)"
+		srcset="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=github-light&hide_border=true&hide_title=true&area=true&custom_title=Contributions"
+	/>
+	<source
+		alt="Github Contributions"
+		srcset="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=github-dark&hide_border=true&hide_title=true&area=true&custom_title=Contributions"
+	/>
+</picture>
+-->
+
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=getintorj&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">-->
+
+
+
+
+## Active projects:
+</br>
+<a href="https://github.com/saforem2/l2hmc-qcd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=transparent&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/saforem2/lattice23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=lattice23&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/nftqcd/fthmc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/argonne-lcf/CompPerfWorkshop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=CompPerfWorkshop&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/argonne-lcf/ai-science-training-series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=ai-science-training-series&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/argonne-lcf/mlprof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=mlprof&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/argonne-lcf/user-guides">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=user-guides&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+<a href="https://github.com/saforem2/personal_site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=personal_site&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
 
 <picture>
   <source
@@ -103,34 +161,6 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 
 <br>
 
-## Active projects:
-</br>
-<a href="https://github.com/saforem2/l2hmc-qcd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=l2hmc-qcd&theme=github_dark&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/saforem2/lattice23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=lattice23&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/nftqcd/fthmc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nftqcd&repo=fthmc&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/argonne-lcf/CompPerfWorkshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=CompPerfWorkshop&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/argonne-lcf/ai-science-training-series">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=ai-science-training-series&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/argonne-lcf/mlprof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=mlprof&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/argonne-lcf/user-guides">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=argonne-lcf&repo=user-guides&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-<a href="https://github.com/saforem2/personal_site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saforem2&repo=personal_site&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a>
-
-
 <img src="https://stats.quine.sh/samforeman/dependencies?theme=dark" width="40%" /> <img src="https://stats.quine.sh/samforeman/github?theme=dark" width="40%" />  
 <img src="https://stats.quine.sh/samforeman/topics-over-time?theme=dark" width="40%" /> <img src="https://stats.quine.sh/samforeman/languages-over-time?theme=dark" width="40%" />
 
@@ -138,7 +168,7 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <details open>
   <summary> </summary>
   
-  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&2&theme=github_dark&show_icons=true&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=100&langs_count=15&range=last_30_days&layout=compact)](https://wakatime.com/@saforem2)
+  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&2&theme=transparent&show_icons=true&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=100&langs_count=15&range=last_30_days&layout=compact)](https://wakatime.com/@saforem2)
   
   ![](https://github.com/saforem2/saforem2/blob/main/github-metrics.svg)
   
