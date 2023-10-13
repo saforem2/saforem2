@@ -10,7 +10,9 @@
 <!-- </div>-->
 
 <!-- **:wave: Hey there, I'm Sam!**<br>-->
-# **:wave: Hi, I'm [Sam](https://samforeman.me)!**
+# 🏡 [Sam Foreman\[.me\]](https://samforeman.me)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Sam.)](https://git.io/typing-svg)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a> <a href="https://github.com/saforem2/l2hmc-qcd/"><img align="center" alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray" /></a>  <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img align="center" alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge" /></a> <a href="https://arxiv.org/abs/2112.01582"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg" /></a> <a href="https://arxiv.org/abs/2105.03418"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg" /></a> 
 
