@@ -31,19 +31,15 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  profile-readme:
+  personal-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: 🦑 Personal metrics
-        uses: lowlighter/metrics@latest
         # See action.yml for all options
+        uses: lowlighter/metrics@latest
         with:
-            output_action: commit
-            committer_branch: metrics-renders
-            committer_message: "chore: update metrics"
             # Your GitHub token
             token: ${{ secrets.METRICS_TOKEN }}
             # Options
@@ -91,7 +87,7 @@ jobs:
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
             plugin_languages: yes
-            plugin_languages_analysis_timeout: 30
+            plugin_languages_analysis_timeout: 15
             plugin_languages_categories: markup, programming
             plugin_languages_colors: github
             plugin_languages_limit: 8
