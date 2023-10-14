@@ -175,8 +175,9 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
   <summary> </summary>
   
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&2&theme=transparent&show_icons=true&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=100&langs_count=15&range=last_30_days&layout=compact)](https://wakatime.com/@saforem2)
-  
-  ![](https://github.com/saforem2/saforem2/blob/main/github-metrics.svg)
+
+  ![](https://raw.githubusercontent.com/saforem2/saforem2/main/github-metrics.svg)
+  <!--![](https://github.com/saforem2/saforem2/blob/main/github-metrics.svg)-->
   
   <!--[![saforem2's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&theme=dark)](https://github.com/saforem2/github-readme-stats)-->
 ### My Top Apps
