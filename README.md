@@ -68,6 +68,8 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=minimal&bg_color=00000000&line=00CCFF&color=838383&hide_border=true&hide_title=true&area=true&custom_title=Contributions" />
 
+
+![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
 <!--</div>-->
 
  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true" />-->
