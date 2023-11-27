@@ -60,6 +60,12 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 	<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
+![saforem2's Stats](https://github-readme-stats.vercel.app/api?username=saforem2&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![saforem2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saforem2&theme=dark&hide_border=true)  
+<!--![saforem2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&theme=dark&show_icons=true&hide_border=true&layout=compact)-->
+
+![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+
 <img src="https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true" width="80%" />
 
 <!--
@@ -69,7 +75,6 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=minimal&bg_color=00000000&line=00CCFF&color=838383&hide_border=true&hide_title=true&area=true&custom_title=Contributions" />
 
 
-![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
 <!--</div>-->
 
  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&no_frame=true" />-->
