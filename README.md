@@ -48,26 +48,41 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 
 [1]: http://www.twitter.com/saforem2
 
-
 <!--<div class="flex" align="center" style="layout-valign: center;">-->
+<!--<a href="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></a>-->
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
-</a> <a href="https://github.com/saforem2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
-</a><a href="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true">
-	<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</a>
-
-![saforem2's Stats](https://github-readme-stats.vercel.app/api?username=saforem2&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![saforem2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saforem2&theme=dark&hide_border=true)  
-<!--![saforem2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&theme=dark&show_icons=true&hide_border=true&layout=compact)-->
-
+[![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/saforem2/github-readme-stats)
+[![](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)
+![saforem2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saforem2&theme=transparent&hide_border=true)  
+![](https://api.githubtrends.io/user/svg/saforem2/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 ![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+
+<!--
+
+|                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/saforem2/github-readme-stats) |
+| ![saforem2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saforem2&theme=transparent&hide_border=true)                                                                                                                                                                                     | [![](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)                            |
+| ![](https://api.githubtrends.io/user/svg/saforem2/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)                                                                                                                                                                              | ![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)                                                                                                           |
+|                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                         |
+
+|                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/saforem2/github-readme-stats) |
+|                                                                                           ![saforem2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saforem2&theme=transparent&hide_border=true)                                                                                           |               [![](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)              |
+|                                                                                        ![](https://api.githubtrends.io/user/svg/saforem2/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)                                                                                       |                                                      ![](https://api.githubtrends.io/user/svg/saforem2/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)                                                      |
+
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true" width="80%" />
 
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" /></a> 
+<a href="https://github.com/saforem2/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" /></a>
+-->
+<!--![saforem2's Stats](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&hide_border=true&count_private=true)-->
+<!--![saforem2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&theme=dark&show_icons=true&hide_border=true&layout=compact)-->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true)](https://github.com/saforem2)
 -->
