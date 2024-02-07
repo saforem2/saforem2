@@ -51,6 +51,52 @@ My most recent project involves using ML to build more efficient Markov Chain Mo
 <!--<div class="flex" align="center" style="layout-valign: center;">-->
 <!--<a href="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></a>-->
 
+<!-- GITHUB REPO STATS / LAST COMMIT / etc
+<img src="https://img.shields.io/github/stars/saforem2/ezpz"> ![](https://img.shields.io/github/last-commit/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/HighStr.nvim)
+-->
+
+<!-- PROJECT LIST
+<dl>
+<dt><a href="https://github.com/saforem2/ezpz"><i class="fa-brands fa-github" aria-label="github"></i> <code>ezpz</code></a></dt>
+<dd>
+Distributed training, <code>ezpz</code>.
+</dd>
+<dt><a href="https://github.com/argonne-lcf/Megatron-DeepSpeed"><i class="fa-brands fa-github" aria-label="github"></i> <code>Megatron-DeepSpeed</code></a></dt>
+<dd>
+Megatron-LM + DeepSpeed, for the largest of large language models.
+</dd>
+<dt><a href="https://github.com/saforem2/wordplay"><i class="fa-brands fa-github" aria-label="github"></i> <code>wordplay</code></a> [<a href="https://saforem2.github.io/wordplay">web</a>]</dt>
+<dd>
+Built on <iconify-icon inline="" icon="icon-park:fork"></iconify-icon> [<code>nanoGPT</code>] with support for<a href="https://samforeman.me/#fn2" class="footnote-ref" id="fnref2" role="doc-noteref" aria-expanded="false"><sup>2</sup></a><br>
+<code>{</code> 🤗 <a href="https://huggingface.co/datasets"><code>datasets</code></a>, <a href="https://github.com/microsoft/DeepSpeed"><code>DeepSpeed</code></a> <code>}</code>
+</dd>
+<dt><a href="https://github.com/argonne-lcf/ai-science-training-series"><i class="fa-brands fa-github" aria-label="github"></i> <code>ai-science-training-series</code></a> [<a href="https://www.alcf.anl.gov/alcf-ai-science-training-series?">web</a>]</dt>
+<dd>
+Student training series on AI-driven Science on Supercomputers
+</dd>
+</dl>
+
+<dl>
+<dt><a href="https://github.com/saforem2/enrich"><i class="fa-brands fa-github" aria-label="github"></i> <code>enrich</code></a></dt>
+<dd>
+Python’s <code>logging</code>, with <a href="https://github.com/Textualize/rich">Rich</a>
+</dd>
+<dt><a href="https://github.com/saforem2/ambivalent"><i class="fa-brands fa-github" aria-label="github"></i> <code>ambivalent</code></a> [<a href="https://saforem2.github.io/ambivalent">web</a>]</dt>
+<dd>
+Minimal, beautiful (+ highly-customizable) styles for Matplotlib<a href="https://samforeman.me/#fn3" class="footnote-ref" id="fnref3" role="doc-noteref" aria-expanded="false"><sup>3</sup></a>.
+</dd>
+<dt><a href="https://github.com/saforem2/l2hmc-qcd"><i class="fa-brands fa-github" aria-label="github"></i> <code>l2hmc-qcd</code></a> [<a href="https://saforem2.github.io/l2hmc-qcd">web</a>]</dt>
+<dd>
+Application of the L2HMC algorithm to simulations in lattice QCD.
+</dd>
+<dt><a href="https://github.com/saforem2/climate-analysis"><i class="fa-brands fa-github" aria-label="github"></i> <code>climate-analysis</code></a> [<a href="https://saforem2.github.io/climate-analysis">web</a>]</dt>
+<dd>
+Climate Analysis project using ClimRR data
+</dd>
+</dl>
+-->
+
+
 [![](https://github-readme-stats.vercel.app/api?username=saforem2&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=false&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=saforem2&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF)](https://github.com/saforem2/github-readme-stats)
 [![](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=saforem2&redirect=true)
