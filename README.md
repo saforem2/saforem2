@@ -12,9 +12,13 @@
 <!-- **:wave: Hey there, I'm Sam!**<br>-->
 # 🏡 [Sam Foreman\[.me\]](https://samforeman.me)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Sam.)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&pause=1000&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Sam.)](https://git.io/typing-svg)-->
 
 <img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a> <a href="https://github.com/saforem2/l2hmc-qcd/"><img align="center" alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray" /></a>  <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img align="center" alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge" /></a> <a href="https://arxiv.org/abs/2112.01582"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg" /></a> <a href="https://arxiv.org/abs/2105.03418"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg" /></a> 
+
+<details closed><summary>🎶 <code>Now Playing</code>:</summary>
+    <a href="https://www.last.fm/user/saforem2"><img src="https://lastfm-recently-played.vercel.app/api?user=saforem2"></a>
+</details>
 
 I use machine learning to accelerate scientific discovery[^hpc]
 
@@ -27,6 +31,7 @@ If you're really curious, there's more on my [🏡 homepage](https://samforeman.
 
 My current research interests include machine learning, generative modeling, high-performance computing and lattice quantum chromodynamics (LQCD).
 My most recent project involves using ML to build more efficient Markov Chain Monte Carlo sampling techniques for generating gauge configurations in LQCD.
+
 
 <!--
 - 🔭 I’m currently working on ...
