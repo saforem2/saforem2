@@ -16,9 +16,20 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a> <a href="https://github.com/saforem2/l2hmc-qcd/"><img align="center" alt="l2hmc-qcd" src="https://img.shields.io/badge/-l2hmc--qcd-252525?style=flat&logo=github&labelColor=gray" /></a>  <a href="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd"><img align="center" alt="codefactor" src="https://www.codefactor.io/repository/github/saforem2/l2hmc-qcd/badge" /></a> <a href="https://arxiv.org/abs/2112.01582"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2112.01582-B31B1B.svg" /></a> <a href="https://arxiv.org/abs/2105.03418"><img align="center" alt="arxiv" src="http://img.shields.io/badge/arXiv-2105.03418-B31B1B.svg" /></a> 
 
-<details closed><summary>🎶 <code>Now Playing</code>:</summary>
-    <a href="https://www.last.fm/user/saforem2"><img src="https://lastfm-recently-played.vercel.app/api?user=saforem2"></a>
-</details>
+- 💻 Computational scientist  
+  @ Argonne National Laboratory (ALCF)
+- 🧪 Interested in:
+  - {AI, HPC} for science
+  - 🚀 scaling large models across thousands of GPUs
+- <details closed><summary>🎶 <code>Now Playing</code>:</summary>
+  
+  <center>
+  <a href="https://github.com/kittinan/spotify-github-profile"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=saforem2&cover_image=true&theme=default&show_offline=false&background_color=1c1c1c&interchange=false"></a> <a href="https://www.last.fm/user/saforem2"><img align="center"  src="https://lastfm-recently-played.vercel.app/api?user=saforem2"></a>
+  </center>
+  
+  </details>
+
+<!--
 
 I use machine learning to accelerate scientific discovery[^hpc]
 
@@ -31,7 +42,7 @@ If you're really curious, there's more on my [🏡 homepage](https://samforeman.
 
 My current research interests include machine learning, generative modeling, high-performance computing and lattice quantum chromodynamics (LQCD).
 My most recent project involves using ML to build more efficient Markov Chain Monte Carlo sampling techniques for generating gauge configurations in LQCD.
-
+-->
 
 <!--
 - 🔭 I’m currently working on ...
