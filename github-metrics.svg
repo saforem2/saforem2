@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4735" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4752" class="">
     <defs>
         <style/>
     </defs>
@@ -23,20 +23,20 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 413 users
+                            Followed by 414 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -83,13 +83,13 @@ https://samforeman.me</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            20304 Commits
+                            20307 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            51 Pull requests reviewed
+                            52 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -494,12 +494,12 @@ https://samforeman.me</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 70 commits)</small>
+                    <small class="h-details">(computed from last 63 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.0 characters per line of code written</li>
+                        <li>Has approximately 55.9 characters per line of code written</li>
                         <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -510,13 +510,13 @@ https://samforeman.me</div>
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             00
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             01
                         </div>
                         <div class="entry">
@@ -615,18 +615,18 @@ https://samforeman.me</div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             21
-                        </div>
-                        <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            22
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
                             <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            22
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             23
                         </div>
                     </div>
@@ -646,13 +646,13 @@ https://samforeman.me</div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 7.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">17</span>
-                                <div class="bar" style="height: 42.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">15</span>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -677,17 +677,17 @@ https://samforeman.me</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 10.47528262153904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.690484547797682%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 4.123755432241508%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.214831409892485%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 3.6290091663978483%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.709158332167939%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -811,7 +811,7 @@ https://samforeman.me</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 57 days
+                            Current streak 58 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -835,7 +835,7 @@ https://samforeman.me</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~10.92
+                            Average per day at ~10.90
                         </div>
                     </section>
                 </div>
@@ -2781,19 +2781,24 @@ https://samforeman.me</div>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.866666666666666)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.733333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2666666666666666 0,1.2666666666666666 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2666666666666666 1.7,2.2666666666666666 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2666666666666666 0,1.2666666666666666 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2666666666666666 1.7,2.2666666666666666 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.866666666666666)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 8.466666666666667)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.533333333333333 0,1.5333333333333332 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5333333333333332 1.7,2.533333333333333 z"/>
                             </g>
                         </g>
                     </g>
@@ -2911,6 +2916,7 @@ https://samforeman.me</div>
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -4352,7 +4358,7 @@ https://samforeman.me</div>
                                     </svg>
                                     <div class="name">
                                         <span>pygfx/pygfx</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and versatile visualization for Python.</div>
@@ -4392,7 +4398,7 @@ https://samforeman.me</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        619
+                                        620
                                     </div>
                                 </div>
                             </section>
@@ -4405,7 +4411,7 @@ https://samforeman.me</div>
                                     </svg>
                                     <div class="name">
                                         <span>vispy/jupyter_rfb</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remote Frame Buffer for Jupyter</div>
@@ -4458,7 +4464,7 @@ https://samforeman.me</div>
                                     </svg>
                                     <div class="name">
                                         <span>kern/filepizza</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4482,13 +4488,13 @@ https://samforeman.me</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.77k
+                                        6.79k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        428
+                                        433
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4501,7 +4507,7 @@ https://samforeman.me</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        111
+                                        112
                                     </div>
                                 </div>
                             </section>
@@ -4514,7 +4520,7 @@ https://samforeman.me</div>
                                     </svg>
                                     <div class="name">
                                         <span>aliyun/SimAI</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4536,7 +4542,7 @@ https://samforeman.me</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        445
+                                        447
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4549,7 +4555,7 @@ https://samforeman.me</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        88
+                                        89
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4590,23 +4596,23 @@ https://samforeman.me</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>synercys/annotated_latex_equations</span>
+                                                <span>saforem2/l2hmc-qcd</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Examples of how to create colorful, annotated equations in Latex using Tikz.</div>
+                                        <div class="field description">Application of the L2HMC algorithm to simulations in lattice QCD.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3d6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#da5b0b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TeX
+                                                Jupyter Notebook
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                3.79k
+                                                68
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4624,23 +4630,23 @@ https://samforeman.me</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>facebookresearch/beanmachine</span>
+                                                <span>synercys/annotated_latex_equations</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A library that allows for inference on probabilistic models</div>
+                                        <div class="field description">Examples of how to create colorful, annotated equations in Latex using Tikz.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3d6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                TeX
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                265
+                                                3.79k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4670,23 +4676,23 @@ https://samforeman.me</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>luk400/vim-jukit</span>
+                                                <span>m4xshen/hardtime.nvim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Jupyter-Notebook inspired Neovim/Vim Plugin</div>
+                                        <div class="field description">Establish good command workflow and quit bad habit</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Vim Script
+                                                Lua
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                633
+                                                1.77k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4704,23 +4710,23 @@ https://samforeman.me</div>
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>kiyoon/jupynium.nvim</span>
+                                                <span>LunarVim/colorgen-nvim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.</div>
+                                        <div class="field description">🚀 Blazingly fast colorscheme generator for Neovim written in Rust 🦀</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                Rust
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                582
+                                                238
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4755,10 +4761,11 @@ https://samforeman.me</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    413 followers
+                    414 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIAwn/xAApEAABAwMCBQUAAwAAAAAAAAABAgMEBQYRACEHEhMxQSIyUWFxI4GR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMSERMh/9oADAMBAAIRAxEAPwCpnFpbQpayAlIyT8DU2VzjPcVeq8mDaAjxWkqKGV9MLccG/r9ew2+tUooBSSCMg7EanygWo1bFaU3BDSmA+5G/kbBcwFnzjPj51C5yg+S1NfoeQ9wo4l1CfUUUC6W+aaSUtysBJWfCVJHn7059Ky1LZTIuWHPqKGOrFLjzQaTsT2Gf9z+jTSzpqWLr0wXqEbggi4bhpNuwzLrlRiwY/YKecA5voDuT9DSDrt40m5LhmSbedlz6TzIPVjsODpukbgpwF79wfnI8am2pypM6a4/OkvyZClep15ZWtX6TozZ9dqdDdlmkzHYpebHPyHGcdtM6b+GLW+DqVRanEOhUioPw7mnppktKWwymXkK5VE+4gYSfacHxg/jbiSmZkVqTDfakR3UhaHWiFpWD5ChsRrnNWpUiY+t6W+4++6edx1xWVLV8k6zp1Wnxo/SjTJDLSVHCG3VJA/rOii5HJrD6HRn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQEDBgL/xAAlEAACAQMCBgMBAAAAAAAAAAABAwIABBEFIRIiMUFhcQYjoRP/xAAYAQACAwAAAAAAAAAAAAAAAAACAwQGB//EAB8RAAICAgEFAAAAAAAAAAAAAAIDAAERIQUSIiMxcf/aAAwDAQACEQMRAD8A0U0LdH7IDPaq02YVHaIznINdQcD1zx+aO164vRfaOuxcFwY+YaSMggLmQD42qrhkrxNLY21jmJMVneZyfFTBfKOaoS1s4EuhGE842OR7qlt0pczGU9/eKHcZR6gBOqOWzLoW5PT+UR09mh734gu8y27k51zM7tlLM/2tR3q9HOeapQuIdhqKbxyzrybmcs9P1vT3QijVGORFeAu5jx5Pvr+03CN2Y/fbwkzuYk4pOERXdLN3V7qAKRV2jd4+z//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYDBAj/xAAuEAABAwIEBAUDBQAAAAAAAAABAgMEBREABgchEhMxURRBYXGRIiMyUoGSoeH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EACURAAEDAwQABwAAAAAAAAAAAAECAwUABBETITGREkFRcYGx8P/aAAwDAQACEQMRAD8Ah84wKzlWmuSZ0ABrj5aH2nAtq5vbsr5AwTuoky5Qk1BbyEu9HFA77229L4Ytf8yueKptIbbu22oSXUnYOdhf5+cLtDRHqkGhVZ3Tl+YpSFMguSGliKoLKFfSTvvf6yOlsRol1xy3S64Bk/VV7ySuJFIDys4+Pxry05IqGXq+1BdVflqAsj8VpPmO/vi7cLalk8RT6X/zCvnPSyFXNRo1YkIEeGI33mWlcB5w/AbDYADv1AxsvSujKVdNRq7Y/Slxqw/ki+CSklb2606vJFWoKZbj21NvgqGduNuyKJc5KZzEt5xbKeJLZbZURv7+m9sXOiupXg8tppFdfaQ5TVKF3HA2eWSST03698GMt5aSgA7KVvio0v5Ss/wkvRYzwfQtpfMaCrix/vbCrchhAaTxViWgmG2Ro7eAd+fdIWd850+oUhcqI65Ghx1F9iV5vPWsgNg9dz8fvjmh6nxRGbTMaeS8kWPBuD69dvbBNnh5yoZkkTpS1KcRJSyyi54GE3GyB5YyaJUkknzwS8j2bwAuDcUKOhbe7bVrj0xg+9f/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcBBQYI/8QAKxAAAgEDAwIEBgMAAAAAAAAAAQIDBAURACExBhITIkGBFCNRYZGhUnHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMhBDER/9oADAMBAAIRAxEAPwDoXrG9vaKHFMFapYd6Z4ABH51hKi73K5xz/F90mF8TEZIjX6gD11PV9yetutdFWU7wPRkIoMpcPkcrxjOOMaFS4U6zO8c8QiMHYFnmWIbZ3355x7DUd9rjFEv5qEbWMs+m+oqq1zCmqZZamnYeQSKQY/8Acb++mjFIksayRsGRhkEcEaRsVQsrU8cIkLx5BlMhfYnPJ354+32xpodGVlTX2hjURoDBK0KESHLKACCdud/1paWYjRC6K1U5AOvLR4rRXJQWEfkmGBsvofbJ/OsH8IRUAwSkRkYPadjzv/fGngRkYPGlx17aKSz21Ku3q0TsQhQHyH74+ulKhvYKOV8mfpaT58EFOviVMxAUZ3JPOT+9NeyW5bZbIaZQrOozI38m9Tobp6y0dspg9OjNLIAWlkPcx99XQ1gJxm+z/9k=" width="28" height="28" alt="" />
@@ -4782,7 +4789,6 @@ https://samforeman.me</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMFBgj/xAAlEAADAAIBAgUFAAAAAAAAAAABAgMAEQQFBhIhIlGRMTNBUmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8qYxnTczt+cuF0915vGFORJbNStQsyG+gT38PmGP7bXXp2Q5nGbXcnSk6ZzZJOhedorZJt9yQO/S3xsH8qVOhvQxcBl2rQxWJdzNWLKpPkCdbIH90PgZDGBa1acir1s7Uq5LMzHZJ9ycjjGB/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAAsEAABAwMCAwcFAQAAAAAAAAABAgMEAAURBiETMWEHEhQiQVGRI3GBocEy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAfEQACAQQCAwAAAAAAAAAAAAABAwACBBGBBSFRYXH/2gAMAwEAAhEDEQA/AOZJ623HgUIcQrHm76wrJ6YA/tGW9h2ZDTEZHeeUriIRgkr5jb55etNWlLi3aO+pEBpbr7EhtTklvihAAOMIO2cgb496pPYDaWkg3tt+MZKcIdaU2AcFZ5fPpjlQtcFjMZSS2rESNL3mXCuKIF3tiozjeR5wQSccsHfJrO1PeGG7u4mWiY68AMrKe9kem6jnlirnrrSca53y2z7lPaEhBLyFAAEjGze2Mkkj4pfRpcXhlqSq2+IWEJSpfCCt8Zxn81Vx6l3ajnog6kfIXbLFwAGQRuRq9W6arVd7bjEojplvAAKwndZ2/dUXsrtElV3d8DJQh1plILLm6XMLzuM+nv1FC6hZQjUd1CRgcYn90Napj1pubMuCvhvNryPY9D0qZyhWj2ZWhpocPAjJ2qCRFu1m8ctHEacVIDTOQhsjAH9qraYu8K2aUsjTEhhanIiXnSl0f7USSD1HL8VCr1LeuFxlzZauJIW4SVHodh9qXbwhIfbyAfpjn9zTWtJWkL3BugGvLD8n/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDCP/EACgQAAIBAwMCBgMBAAAAAAAAAAECAwAEEQUSITFBBhMUIlGBUnGhwf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhAhL/2gAMAwEAAhEDEQA/AOXrtvcEHRBj7qYU/r1tHHbwTqnJO0kd+K28LaRb6pc+VczQxSMcILh/LQ8HnfwM5x1I+6ExOCbG8eDhjui7r8fqrbuAee1EvBIJzCFJkBIwOa0ivp40Cq5wOlAnm9g7rTK+koSfcrAiqvUWw0SB0wZQCSBycURqzH0EI7b/APKS8LajNHBHpQWI2l64aUNGGbKsMYJ6dKbPzgbS5bu1vTPZITKqEZKbtoYbc/2oGxnkc96YtJ5YNYmijchGfaw/ID5o25G25lA6bjSXev/Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -4831,6 +4837,23 @@ https://samforeman.me</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#806 Fix Issue template chooser config</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by felker in <span class="repo">argonne-lcf/user-guides</span></div>
+                                </div>
+                                <div class="timestamp">19 Mar 2025, 12:53:18</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -5038,23 +5061,6 @@ This reverts commit c9806d23c7bf058aba79b26ba8c551e585d97e74.</div>
                                 <div class="timestamp">12 Mar 2025, 13:09:49</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">saforem2-patch-3</span>
-                                        in
-                                        <span class="repo">argonne-lcf/Megatron-DeepSpeed</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Mar 2025, 12:19:18</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -5108,7 +5114,7 @@ This reverts commit c9806d23c7bf058aba79b26ba8c551e585d97e74.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="284.15633333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="284.394 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -5131,9 +5137,9 @@ This reverts commit c9806d23c7bf058aba79b26ba8c551e585d97e74.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 492 out of 238m repositories</span>
+                                    <span class="gh">ranked 494 out of 226m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 37499 stars</div>
+                                <div class="text">Maintaining a repository with 37522 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -5218,7 +5224,7 @@ This reverts commit c9806d23c7bf058aba79b26ba8c551e585d97e74.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.25462012320331 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.339493497604376 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -5342,7 +5348,7 @@ This reverts commit c9806d23c7bf058aba79b26ba8c551e585d97e74.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2025, 20:54:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Mar 2025, 20:53:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
