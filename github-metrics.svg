@@ -23,22 +23,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 468 users
+                            Followed by 467 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            22748 Commits
+                            22752 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -510,7 +510,7 @@
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
-                            <div class="label" title="Docker, Machine learning, Deep learning, Data structures, Chrome, Arduino, SQL, Google, Azure, Angular, Data visualization, Go, Bot, Command-line interface, 3D, Django, GitHub API, Front end, Code quality, Chrome extension, PHP, Bash, JSON, Code review, Terminal, Rust, Kubernetes, R, Ubuntu, Jupyter Notebook, HTTP, React Native, Tensorflow, Security, macOS, PostgreSQL, Hacktoberfest, Framework, Firefox, Ethereum, Ansible, Flask, Markdown, Continuous integration, REST API, Documentation, Shell, Natural language processing, scikit-learn, Operating system, Minecraft, Vim, Server, Deployment, LaTeX, Ruby, Library, Project management, X (Twitter), Homebrew, Sass, Emulator, Serverless, Font, Lua, Material Design, COVID-19, Qt, ESLint, Testing, Dependency management, Pixel Art, P2P, PWA, Emoji, Package manager, The Julia Language, Emacs, Parsing, Monitoring, Software-defined networking, Icon font, Sketch, ReactiveUI, Publishing, Vagrant, PICO-8, SpaceVim, Nim, Data Science, Neural Network, Large Language Model, visualization, dataset, color-scheme, Xontrib, monte-carlo, normalizing-flows, mcmc, rateyourmusic, introduction-to-tf-for-ai-ml">and 101 more...</div>
+                            <div class="label" title="Docker, Machine learning, Deep learning, Data structures, Chrome, Arduino, SQL, Google, Azure, Angular, Data visualization, Go, Bot, Command-line interface, 3D, Django, GitHub API, Front end, Code quality, Chrome extension, PHP, Bash, JSON, Code review, Terminal, Rust, Kubernetes, R, Ubuntu, Jupyter Notebook, HTTP, React Native, Tensorflow, Security, macOS, PostgreSQL, Hacktoberfest, Framework, Firefox, Ethereum, Ansible, Flask, Markdown, Continuous integration, REST API, Documentation, Shell, Natural language processing, scikit-learn, Operating system, Minecraft, Vim, Server, Deployment, LaTeX, Ruby, Project management, Library, X (Twitter), Homebrew, Sass, Emulator, Serverless, Font, Lua, Material Design, COVID-19, Qt, ESLint, Testing, Dependency management, Pixel Art, P2P, PWA, Emoji, Package manager, The Julia Language, Emacs, Parsing, Monitoring, Software-defined networking, Icon font, Sketch, ReactiveUI, Publishing, Vagrant, PICO-8, SpaceVim, Nim, Data Science, Neural Network, Large Language Model, visualization, dataset, color-scheme, Xontrib, monte-carlo, normalizing-flows, mcmc, rateyourmusic, introduction-to-tf-for-ai-ml">and 101 more...</div>
                         </div>
                     </section>
                 </div>
@@ -576,7 +576,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            API error: 403
+                            API error: 401
                         </div>
                     </section>
                 </div>
@@ -602,7 +602,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 50 days
+                            Current streak 51 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -626,7 +626,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~11.21
+                            Average per day at ~11.19
                         </div>
                     </section>
                 </div>
@@ -2572,9 +2572,14 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.72093023255814)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2790697674418605 0,1.2790697674418605 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2790697674418605 1.7,2.2790697674418605 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 6.44186046511628)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2790697674418605 0,1.2790697674418605 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2790697674418605 1.7,2.2790697674418605 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.558139534883721 0,1.558139534883721 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.558139534883721 1.7,2.558139534883721 z"/>
                             </g>
                         </g>
                     </g>
@@ -2593,12 +2598,13 @@
                             <g transform="translate(0, 14)">
                                 <text x="0" y="0">2026</text>
                                 <g transform="translate(0, 0)">
-                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(15, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -4040,7 +4046,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jlongster/tigma</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4056,7 +4062,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        516
+                                        518
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4088,7 +4094,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tixl3d/tixl</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TiXL is an open source software to create realtime motion graphics.</div>
@@ -4109,7 +4115,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4.61k
+                                        4.62k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4122,7 +4128,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        441
+                                        442
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4141,7 +4147,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ninoseki/uv-dynamic-versioning</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dynamic versioning based on VCS tags for uv/hatch project</div>
@@ -4194,7 +4200,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nekorg/pawbar</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A kitten-panel based desktop panel for your desktop</div>
@@ -4269,23 +4275,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>kedro-org/kedro</span>
+                                                <span>synercys/annotated_latex_equations</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable,…</div>
+                                        <div class="field description">Examples of how to create colorful, annotated equations in Latex using Tikz.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3d6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                TeX
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                10.6k
+                                                3.89k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4303,11 +4309,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>facebookresearch/beanmachine</span>
+                                                <span>kedro-org/kedro</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A library that allows for inference on probabilistic models</div>
+                                        <div class="field description">Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable,…</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4319,7 +4325,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                273
+                                                10.7k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4349,11 +4355,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>nvim-zh/colorful-winsep.nvim</span>
+                                                <span>DanilaMihailov/beacon.nvim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Make your nvim window separators colorful</div>
+                                        <div class="field description">Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -4365,7 +4371,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                627
+                                                604
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4383,23 +4389,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>norcalli/nvim-terminal.lua</span>
+                                                <span>LunarVim/colorgen-nvim</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.</div>
+                                        <div class="field description">🚀 Blazingly fast colorscheme generator for Neovim written in Rust 🦀</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Lua
+                                                Rust
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                273
+                                                252
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -4434,7 +4440,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    468 followers
+                    467 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -4461,7 +4467,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACwQAAEDAgQFBAEFAAAAAAAAAAECAwQFEQAGEiETMUFRgQcUImEyQmKRocH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAACBf/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEESESE//aAAwDAQACEQMRAD8AU2qmG4r79tfDbK7d7C+CDL0ebniSudWa7UG5azrbjRZHDQyOgQgdu+LxTM2VQprNOI944wtDV7Wvb72wd5ZeYESnutpeMlEgB1to9EXuOdhufOELXOuTSxq1J7GzIz0wxH4c6WZwikBqUo3W4g9F25kW59duuKnTiZyImOlmSiDr4A0EhV7gm+xvvistglZLICYG5QthAmfKr6lUygRHUwVInVHSQ023u2D+9f8Agxx0jJJqdCGb6FmRuBGlHiTGn0jQy7r+fUD8+Xi2BLSOF5wgZKlOu5EzlTHSFQ/aMzUoP6HQ8hOpPbY/0MOHGXzqLpcQdzRWQ36PSWTQG6mh2sNK1ykPOWdccIB1/Ytblfa2LQDGSvVID3+WpSQEPSqHEfcUnb52Um48JH8YRvR7OFYOVXWpElUngyltoW+VLUE6Um178rk4q9ICjUn09Hs//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcA/8QAKRAAAgEDAwMBCQAAAAAAAAAAAQIDAAQRBRIxBiFhURRBUmJykaHB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAQQG/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEEiEyUYHw/9oADAMBAAIRAxEAPwDQwrrgHB88VV1XVLDSYUl1K5itldtimQ8mgdpoyxygrfXQP1A/qo9QxtcxRW0N2ZZI237pVDleR24rHSYw2ra/vadQ5W460mhWWdEYMkkRGQR3yKghgZcxKrL680Ds/bTpyQ2l7DbxwKIxEsHAHYDOfFBItAvIgVt79o48khUOwfbNBDjmyLRz5TWgWi1zdMsLmOVFkwdpbvg+6s5vOpNQgmeJZod6sd0hj5/vFdp+p3Vzql000m4h9i/KPQVav7+V7Zo3CMjc5BpmJRE8hzQVSig3jDmuIKO9G6sG06Q3cmxwxGSMZz3yfzTJv81lMtzIQIw22P4V7CnLpm4kuNGgaU7mGVB8A1A4cXeUGQ3gL//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGA//EAC4QAAEDAwMCBQEJAAAAAAAAAAECAwQABREGEiExQQcTUWGhFBYjMkJScZLB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAgIDAAAAAAAAAAAAAAABAgADERIhInH/2gAMAwEAAhEDEQA/AJrQCHMDkjjNJGj/AA7ud4tseYwCW3FbwnIBKB1PPHXtWItzYkXoICUfeukBIHAz04qmrPHk25oBha22Go6ENbeiUDIWMevA/apbmxHUVCxsGHGv4dosJjQrUwHNzZdc81sBaDnGMD0wc/FFLrJG1wJyl3Kx7DcRj4pR1c0/IsMa8MJDjbct1tReSFkNLXlGT361ipiWpD29oxGEYwG0NHA/kVH5pFIVBwYp6xW5E7eHSY32thec2jIJLef144/2qZ8OlC7wrgJsYLabVsZUe6O4o70RouyO6Itd3MZQueS79QlZBz5hTjH4cY46U2aThsRIC0MI2p3/ANUTdmEqQaJ7MU/paPFM+2FkKt0xpYLfpnjj3HBqaLtETb7tNh7lKQw8ptCj+ZIOAarnXcx6JGQ4wQlfluc49hUhzZTq7hLcURuW8tSuO+axF1YiBccqDP/Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgDBAYCBf/EAC4QAAEDAwIFAQcFAAAAAAAAAAECAwQFBhEAIQcTMUFREhQiMkJhcaEVUoGRwv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABAhESIUH/2gAMAwEAAhEDEQA/AMVwQ4Sx6/EbuC521Kp6ifZYmSnnY+dZ6+nPQd/t1OoqdqW3zKeJdHpimQPVHCm2iARke5t216MRuPQKDEjMtOrjxWUMNpYZU4cAYGyQfGgvdNr02tV+bUn6Le7z77nrUW47SEDwBnfAGOugN3ctiWjxCo3tUZqMh10Hk1GGkJVkEjfHxDI6H8aUq7rfmWtcEukVIemRHVj1J+FxJ3SofQjGm44YiJRaV+lRYFxstF0rSajFHuk4yMt7AbZ386s3nw/o11VVudUmkKfbZDIJ8Ak/6OgIeFN1tXjYkZbL4RUY7IjSh87boGAvHg9R/XbUEG1agpLqUMopDiYi2C/GlKJlO9lrx26noDv9dKZbFy1W1qmmfRJa40gbKxulweFJ6Eab7hddU66qC3MqLUZt5Sd+SggfknWXCppvwqeF206K7TZ8h5uC1TYhaCOQ27zOYv8AeT4Hbvuc6BHF/irOVej8e2ZYECI2GCtO6XHASVKH03x/GueMfE643qpNoEd5mFASCFmMkpccB7KUSdvtjQT0ieCxCnvZ/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -4588,7 +4594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2026, 20:31:41 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2026, 20:20:51 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
