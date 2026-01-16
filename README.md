@@ -29,6 +29,10 @@
   
   </details>
 
+<!--takatime-start-->
+
+<!--takatime-end-->
+
 <!--
 
 I use machine learning to accelerate scientific discovery[^hpc]
