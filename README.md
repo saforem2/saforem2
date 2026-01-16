@@ -30,8 +30,9 @@ I'm interested generally on large scale distributed training and AI for science[
 		  </a>
 	  </center>
 
-
   If you're really curious, there's more on my [🏡 homepage](https://samforeman.me) or follow me on [twitter](https://twitter.com/saforem2) <img display="inline" width=16px src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" /> !   
+
+[^hpc]: Mostly trying to get supercomputers to talk to each other.
 
 <img align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> <img width="55%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2" /> 
 
