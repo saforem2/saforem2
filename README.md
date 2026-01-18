@@ -82,4 +82,35 @@ I'm interested generally on large scale distributed training and AI for science[
 
 <!--takatime-start-->
 
+> [!NOTE]
+> **TakaTime Dashboard**
+> _Jan 11_ to _Jan 18_
+
+> [!TIP]
+> **Total Coding Time (7d):** 12h 57m
+
+#### 📈 Trends
+| Period        | Duration     | Period       | Duration     |
+| :---          | :---         | :---         | :---         |
+| Yesterday     | **12h 57m**  | Last 7 Days  | **12h 57m**  |
+| Last 30 Days  | **12h 57m**  | All Time     | **12h 57m**  |
+
+#### 💻 Languages
+| Language | Time | Percentage |
+| :--- | :--- | :--- |
+| **qmd** | 7h 29m | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 57.8% |
+| **py** | 5h 17m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40.8% |
+| **toml** | 8m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.0% |
+| **text** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.3% |
+| **Other** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.1% |
+
+#### 🔥 Projects
+| Project | Time | Percentage |
+| :--- | :--- | :--- |
+| **personal_site_CLEAN** | 7h 29m | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 57.8% |
+| **ezpz** | 5h 26m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 41.9% |
+| **unknown** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.2% |
+| **samforeman** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.1% |
+
+
 <!--takatime-end-->
