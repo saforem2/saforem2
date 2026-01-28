@@ -84,34 +84,33 @@ I'm interested generally on large scale distributed training and AI for science[
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 20_ to _Jan 27_
+> _Jan 21_ to _Jan 28_
 
 > [!TIP]
-> **Total Coding Time (7d):** 589h 35m
+> **Total Coding Time (7d):** 518h 19m
 
 #### 📈 Trends
 | Period        | Duration     | Period       | Duration      |
 | :---          | :---         | :---         | :---          |
-| Yesterday     | **68h 52m**  | Last 7 Days  | **589h 35m**  |
+| Yesterday     | **0m**       | Last 7 Days  | **518h 19m**  |
 | Last 30 Days  | **733h 4m**  | All Time     | **733h 4m**   |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **md** | 256h 14m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 43.5% |
-| **qmd** | 161h 12m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 27.3% |
-| **text** | 120h 21m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20.4% |
-| **lua** | 40h 58m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 6.9% |
-| **Other** | 10h 48m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.8% |
+| **md** | 243h 26m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 47.0% |
+| **qmd** | 137h 15m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 26.5% |
+| **text** | 120h 17m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 23.2% |
+| **lua** | 17h 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.3% |
+| **Other** | 19m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.1% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **ezpz** | 267h 5m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 45.3% |
-| **nvim** | 161h 12m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 27.3% |
-| **personal_site_CLEAN** | 161h 12m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 27.3% |
-| **unknown** | 4m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.0% |
-| **Other** | 0m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.0% |
+| **ezpz** | 243h 46m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 47.0% |
+| **nvim** | 137h 15m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 26.5% |
+| **personal_site_CLEAN** | 137h 15m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 26.5% |
+| **unknown** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.0% |
 
 
 <!--takatime-end-->
