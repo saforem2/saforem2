@@ -34,7 +34,57 @@ I'm interested generally on large scale distributed training and AI for science[
 
 [^hpc]: Mostly trying to get supercomputers to talk to each other.
 
+<!--
+<picture>
+	<source 
+		media="(prefers-color-scheme: dark)"
+		srcset="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg"
+		width="40%" />
+	<source
+		media="(prefers-color-scheme: dark)"
+		srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2&theme=github_dark"
+		width="55%"
+	/>
+	<source
+		media="(prefers-color-scheme: light)"
+		srcset="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" 
+		width="40%" 
+	/>
+	<source
+		media="(prefers-color-scheme: light)"
+		srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
+		width="55%"
+	/>
+</picture>
+-->
+
+<!--
 <img align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> <img width="55%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2" /> 
+-->
+
+<!--
+<p align="center">
+-->
+<img align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> 
+<picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
+    />
+    <img
+      width="55%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
+      alt="GitHub profile summary"
+    />
+</picture>
+
+<!--
+</p>
+-->
 
 <a href="https://git.io/streak-stats"><img align="center" width="100%" src="https://streak-stats.demolab.com?user=saforem2&theme=shadow-blue&hide_border=true&card_width=800&card_height=200&stroke=838383&currStreakNum=838383&dates=838383&currStreakLabel=838383&ring=838383&fire=FF5252&sideNums=838383&sideLabels=838383&date_format=n%2Fj%5B%2FY%5D&background=EB545400" alt="GitHub Streak" /> </a>
 <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saforem2&theme=minimal&bg_color=00000000&line=838383&color=838383&days=30&point=838383&hide_border=true&hide_title=true&area=true" />
@@ -79,6 +129,7 @@ I'm interested generally on large scale distributed training and AI for science[
 
 </details>
 
+<details closed><summary>TakaTime</summary>
 
 <!--takatime-start-->
 
@@ -112,3 +163,5 @@ I'm interested generally on large scale distributed training and AI for science[
 
 
 <!--takatime-end-->
+
+</details>
