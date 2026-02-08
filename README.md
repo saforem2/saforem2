@@ -133,37 +133,16 @@ I'm interested generally on large scale distributed training and AI for science[
 
 <!--takatime-start-->
 
-> [!NOTE]
-> **TakaTime Dashboard**
-> _Jan 31_ to _Feb 07_
+<h2 align="center">TakaTime Weekly Report</h2>
 
-> [!TIP]
-> **Total Coding Time (7d):** 106h 24m
+<p align="center">
+  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
+  <img src="./public/taka-languages.png" width="400" alt="Languages" />
+  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
+  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+</p>
 
-#### 📈 Trends
-| Period        | Duration      | Period       | Duration      |
-| :---          | :---          | :---         | :---          |
-| Yesterday     | **64h 49m**   | Last 7 Days  | **106h 24m**  |
-| Last 30 Days  | **839h 28m**  | All Time     | **839h 28m**  |
-
-#### 💻 Languages
-| Language | Time | Percentage |
-| :--- | :--- | :--- |
-| **py** | 31h 8m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 29.3% |
-| **md** | 23h 45m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 22.3% |
-| **toml** | 12h 58m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.2% |
-| **text** | 12h 18m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11.6% |
-| **Other** | 26h 13m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 24.7% |
-
-#### 🔥 Projects
-| Project | Time | Percentage |
-| :--- | :--- | :--- |
-| **ezpz** | 42h 48m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40.2% |
-| **personal_site_CLEAN** | 35h 30m | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 33.4% |
-| **samforeman** | 11h 4m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10.4% |
-| **sam.onl** | 6h 2m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 5.7% |
-| **Other** | 10h 58m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10.3% |
-
+<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
 
