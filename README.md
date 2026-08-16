@@ -4,14 +4,18 @@
 
 I'm interested generally on large scale distributed training and AI for science[^hpc].
 
+If you're really curious, there's more on my [🏡 website](https://samf.sh) or follow me on [twitter](https://twitter.com/saforem2) <img display="inline" width=16px src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" /> !   
+
+
+
+<img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
+
 - About Me:
-	- 🧑🏻‍💻 [samforeman.me](https://samforeman.me)  
-	  <img align="center" src="https://komarev.com/ghpvc/?username=saforem2" /></a>
-	- 💻 Computational scientist  
-	  @ [Argonne National Laboratory](https://anl.gov) ([ALCF](https://alcf.anl.gov))
-	- 🧪 Interested in:
+    - [samf.sh](https://samf.sh)  
+	- Models / Pre-Training Lead in the AI/ML Group @ [Argonne National Laboratory](https://anl.gov) ([ALCF](https://alcf.anl.gov))
+	- Interested in:
 	  - {AI, HPC} for science
-	  - 🚀 scaling large models across thousands of GPUs
+	  - scaling large models across thousands of GPUs
 	- <details closed><summary>🎶 Now Playing:</summary>  
 	  <center>
 		  <a href="https://www.last.fm/user/saforem2">
@@ -29,8 +33,6 @@ I'm interested generally on large scale distributed training and AI for science[
 				  />
 		  </a>
 	  </center>
-
-  If you're really curious, there's more on my [🏡 homepage](https://samforeman.me) or follow me on [twitter](https://twitter.com/saforem2) <img display="inline" width=16px src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" /> !   
 
 [^hpc]: Mostly trying to get supercomputers to talk to each other.
 
@@ -65,6 +67,7 @@ I'm interested generally on large scale distributed training and AI for science[
 <!--
 <p align="center">
 -->
+
 <img align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> 
 <picture>
     <source
