@@ -38,15 +38,15 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
 
 <!--
 <picture>
+	<source
+		media="(prefers-color-scheme: dark)"
+		srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2&theme=github_dark"
+		width="40%"
+	/>
 	<source 
 		media="(prefers-color-scheme: dark)"
 		srcset="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg"
 		width="40%" />
-	<source
-		media="(prefers-color-scheme: dark)"
-		srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2&theme=github_dark"
-		width="55%"
-	/>
 	<source
 		media="(prefers-color-scheme: light)"
 		srcset="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" 
@@ -55,7 +55,7 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
 	<source
 		media="(prefers-color-scheme: light)"
 		srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
-		width="55%"
+		width="40%"
 	/>
 </picture>
 -->
@@ -68,18 +68,20 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
 <p align="center">
 -->
 
-<img align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> 
 <picture>
+	<img height="auto" margin-block="auto" align="center" src="https://raw.githubusercontent.com/saforem2/github-stats/master/generated/overview.svg" width="40%" /> 
     <source
-      media="(prefers-color-scheme: dark)"
+      width="60%"
+	  media="(prefers-color-scheme: dark)"
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2&theme=github_dark"
     />
     <source
+	  width="60%"
       media="(prefers-color-scheme: light)"
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
     />
     <img
-      width="55%"
+      width="60%"
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saforem2"
       alt="GitHub profile summary"
     />
@@ -92,45 +94,32 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
 <a href="https://git.io/streak-stats"><img align="center" width="100%" src="https://streak-stats.demolab.com?user=saforem2&theme=shadow-blue&hide_border=true&card_width=800&card_height=200&stroke=838383&currStreakNum=838383&dates=838383&currStreakLabel=838383&ring=838383&fire=FF5252&sideNums=838383&sideLabels=838383&date_format=n%2Fj%5B%2FY%5D&background=EB545400" alt="GitHub Streak" /> </a>
 <img align="center" width="100%" src="https://readme-activity-graph.vercel.app/graph?username=saforem2&theme=minimal&bg_color=00000000&line=838383&color=838383&days=30&point=838383&hide_border=true&hide_title=true&area=true" />
 
-<details closed><summary>Profile Stats</summary>
+<details closed><summary>📊 Stats & Metrics</summary>
 
+<details closed><summary>👤 Profile Stats</summary>
+
+
+<a href="https://github.com/saforem2/saforem2/tree/main/github-metrics.svg"> <img src="https://raw.githubusercontent.com/saforem2/saforem2/main/github-metrics.svg" width="100%" align="center" height="auto" alt="Github Metrics Summary" /> </a>
+
+<!--
 ![](https://raw.githubusercontent.com/saforem2/saforem2/main/github-metrics.svg)
+-->
 
 </details>
 
-<details closed><summary>Wakatime</summary>
-
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&show_icons=true&include_all_commits=true&title_color=838383&hide_border=true&layout=compact&theme=transparent&text_color=838383)](https://github.com/saforem2/)
-
+<!-- HIDE WAKATIME DETAILS BLOCKS 
 
 <details closed><summary><code>wakatime</code>:</summary>
 
 ![](https://raw.githubusercontent.com/saforem2/saforem2/main/github-metrics.svg)
 
-</details>
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=saforem2&show_icons=true&include_all_commits=true&title_color=838383&hide_border=true&layout=compact&theme=transparent&text_color=838383)](https://github.com/saforem2/)
 
 </details>
 
-<details closed><summary>🐍</summary>
-	
-![](https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true"width="100%")
+-->
 
-<picture>
-	<source
-		media="(prefers-color-scheme: dark)"
-		srcset="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
-	/>
-	<source
-		media="(prefers-color-scheme: light)"
-		srcset="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
-	/>
-	<img
-		alt="github contribution grid snake animation"
-		src="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
-	/>
-</picture>
-
-</details>
+<!-- </details> -->
 
 <details closed><summary>TakaTime</summary>
 
@@ -148,8 +137,33 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
   <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
 </p>
 
+</details>
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=saforem2&theme=transparent&column=-1&no-bg=true&no-frame=true"width="100%")
+
+<!--
+<picture>
+	<source
+		media="(prefers-color-scheme: dark)"
+		srcset="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
+	/>
+	<source
+		media="(prefers-color-scheme: light)"
+		srcset="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
+	/>
+	<img
+		alt="github contribution grid snake animation"
+		src="https://raw.githubusercontent.com/saforem2/saforem2/output/github-contribution-grid-snake.svg"
+	/>
+</picture>
+-->
+
+</details>
+
 
 </details>
