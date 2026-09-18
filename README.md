@@ -137,7 +137,6 @@ If you're really curious, there's more on my [🏡 website](https://samf.sh) or 
   <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
 </p>
 
-</details>
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
