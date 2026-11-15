@@ -25,4 +25,4 @@ jobs:
           MONGO_URI: ${{ secrets.MONGO_URI }}
           GIST_TOKEN: ${{ github.token }}
           TARGET_REPO: ${{ github.repository }}
-        run: ./taka-report -days=7
+        run: ./taka-report
