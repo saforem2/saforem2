@@ -55,15 +55,20 @@ jobs:
             commits_authoring: saforem2
             # config_presets: @ocean-blue
             # config_octicon: yes
-            plugin_achievements: yes
+            # Achievements — currently broken upstream: GitHub removed the Projects (classic)
+            # GraphQL field and the achievements query includes it, so it returns user:null.
+            # Workaround: limit to badges that don't need that path, or re-enable after
+            # https://github.com/lowlighter/metrics/issues/1834 is merged.
+            plugin_achievements: no
             plugin_achievements_display: detailed
             plugin_achievements_secrets: yes
-            plugin_achievements_threshold: C
+            # Note: activity/habits can show "Unexpected error" if the upstream query returns
+            # null commit payloads. Disabling achievements (above) fixes the shared null on most
+            # recent lowlighter/metrics builds; if they persist, see lowlighter/metrics#1834.
             plugin_activity: yes
             plugin_activity_days: 14
             plugin_activity_filter: all
-            plugin_activity_limit: 10 
-            plugin_activity_load: 300
+            plugin_activity_limit: 10
             plugin_activity_visibility: all
             plugin_calendar: yes
             plugin_calendar_limit: 4
@@ -126,16 +131,20 @@ jobs:
             plugin_notable_from: organization
             plugin_notable_self: yes
             plugin_notable_types: commit
-            plugin_pagespeed: yes
-            plugin_pagespeed_detailed: yes
-            plugin_pagespeed_screenshot: yes
-            plugin_pagespeed_url: https://samforeman.me
+            # PageSpeed — disabled: the shared lowlighter quota (project 583797351490) returns 429.
+            # To re-enable, create a PageSpeed API key (https://developers.google.com/speed/docs/insights/v5/get-started)
+            # and add it as a repo secret, then set:
+            #   plugin_pagespeed: yes
+            #   plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+            #   plugin_pagespeed_url: https://samf.sh
+            plugin_pagespeed: no
             plugin_people: yes
             plugin_people_limit: 24
             plugin_people_size: 28
             plugin_people_types: followers, following
-            plugin_projects: yes
-            plugin_projects_limit: 4
+            # Projects (classic) — GitHub removed the classic Projects GraphQL field (May 2024 sunset).
+            # Re-enable when lowlighter/metrics migrates to Projects v2 (see lowlighter/metrics#1834).
+            plugin_projects: no
             plugin_reactions: yes
             plugin_reactions_display: absolute
             plugin_reactions_limit: 200
@@ -143,13 +152,13 @@ jobs:
             plugin_reactions_limit_discussions_comments: 100
             plugin_reactions_limit_issues: 100
             plugin_repositories: yes
-            plugin_repositories_order: featured, pinned, starred, random
+            plugin_repositories_order: pinned, starred, random
+            plugin_repositories_featured: saforem2/ezpz, saforem2/l2hmc-qcd, saforem2/samf.sh, saforem2/torchtitan
             plugin_rss: yes
             plugin_rss_limit: 4
-            plugin_rss_source: https://samforeman.me/index.xml
-            plugin_skyline: yes
-            plugin_skyline_frames: 60
-            plugin_skyline_quality: 0.5
+            plugin_rss_source: https://samf.sh/rss.xml
+            # Skyline — skyline.github.com was taken down; puppeteer times out after 90s.
+            plugin_skyline: no
             # plugin_skyline_settings: {
             #   "url": "https://skyline.github.com/${login}/${year}",
             #   "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
@@ -169,7 +178,8 @@ jobs:
             plugin_stargazers: yes
             plugin_stargazers_charts: yes
             plugin_stargazers_charts_type: chartist
-            plugin_stargazers_worldmap: yes
+            # Stargazers worldmap — requires GOOGLE_MAPS_TOKEN / plugin_stargazers_token (not configured).
+            plugin_stargazers_worldmap: no
             plugin_starlists: yes
             plugin_starlists_limit: 2
             plugin_starlists_limit_languages: 8
@@ -177,27 +187,26 @@ jobs:
             plugin_starlists_shuffle_repositories: yes
             plugin_stars: yes
             plugin_stars_limit: 4
-            plugin_support: yes
+            # Support — community forum account no longer exists.
+            plugin_support: no
             plugin_topics: yes
             plugin_topics_limit: 15
             plugin_topics_mode: starred
             plugin_topics_sort: stars
-            plugin_traffic: yes
-            
-            plugin_tweets: yes
-            plugin_tweets_limit: 2
-            plugin_tweets_user: saforem2
-            
+            # Traffic — requires a PAT with repo scope that includes traffic visibility; METRICS_TOKEN lacks it.
+            plugin_traffic: no
+            # Tweets — deprecated upstream (Twitter removed free API access in 2023).
+            plugin_tweets: no
+            # WakaTime — uses OAuth token from https://wakatime.com/oauth (rotated 2026-11-16).
             plugin_wakatime: yes
-            plugin_wakatime_days: 30
+            plugin_wakatime_days: 7
             plugin_wakatime_languages_other: yes
             plugin_wakatime_limit: 5
             plugin_wakatime_repositories_visibility: all
             plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-            plugin_wakatime_url: https://wakatime.com
             plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+            plugin_wakatime_url: https://wakatime.com
             plugin_wakatime_user: saforem2
-            repositories_batch: 500
             repositories_forks: yes
             plugin_activity_timestamps: yes
             plugin_languages_ignored: Jupyter Notebook, html, css, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
