@@ -197,10 +197,16 @@ jobs:
             plugin_traffic: no
             # Tweets — deprecated upstream (Twitter removed free API access in 2023).
             plugin_tweets: no
-            # WakaTime — WAKATIME_TOKEN is an API key; the plugin now requires an OAuth token
-            # (https://wakatime.com/oauth). Disabled until the secret is rotated.
-            plugin_wakatime: no
-            repositories_batch: 500
+            # WakaTime — uses OAuth token from https://wakatime.com/oauth (rotated 2026-11-16).
+            plugin_wakatime: yes
+            plugin_wakatime_days: 7
+            plugin_wakatime_languages_other: yes
+            plugin_wakatime_limit: 5
+            plugin_wakatime_repositories_visibility: all
+            plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+            plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+            plugin_wakatime_url: https://wakatime.com
+            plugin_wakatime_user: saforem2
             repositories_forks: yes
             plugin_activity_timestamps: yes
             plugin_languages_ignored: Jupyter Notebook, html, css, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
